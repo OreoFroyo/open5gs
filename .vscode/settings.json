@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "metrics.h": "c",
+        "context.h": "c"
+    }
+}
